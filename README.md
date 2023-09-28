@@ -1,5 +1,4 @@
 # Artificial-Intelligence-in-Compiler-Optimization
-[![Awesome](https://img.shields.io/badge/awesome-YES-brightgreen.svg)](https://github.com/shrutisaxena51)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://github.com/shrutisaxena51)
 
 A list of research papers, datasets, conference and talk and Projects for compilers and program optimization.
