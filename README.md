@@ -244,17 +244,13 @@ Ninghui Sun. ACM Transactions on Architecture and Code Optimization (TACO), 2015
 
 ## Benchmarks and Datasets
 
-- [ CPU® 2017 Benchmark Suite](https://webdocs.cs.ualberta.ca/~amaral/AlbertaWorkloadsForSPECCPU2017/) - Additional workloads for the SPEC CPU2017 Benchmark Suite. 
-- [Project CodeNet](https://github.com/IBM/Project_CodeNet) - Code samples written in 50+ programming languages, annotated with info, such as code size, memory footprint, CPU run time, and status (acceptance/error types)
-- [CodeXGLUE](https://github.com/microsoft/CodeXGLUE) - A Machine Learning Benchmark Dataset for Code
-Understanding and Generation ([paper](https://arxiv.org/pdf/2102.04664.pdf))
-- [ANGHABENCH](http://cuda.dcc.ufmg.br/angha/benchmarks) - A suite with One Million Compilable C Benchmarks ([paper](https://homepages.dcc.ufmg.br/~fernando/publications/papers/FaustinoCGO21.pdf))
+- [ CPU® 2017 Benchmark Suite](https://webdocs.cs.ualberta.ca/~amaral/AlbertaWorkloadsForSPECCPU2017/) - SPEC CPU2017 Benchmark Suite. 
+- [CodeNet](https://github.com/IBM/Project_CodeNet) -  CodeNet is to provide the AI-for-Code research community with a large scale, diverse, and high quality curated dataset to drive innovation in AI technique (acceptance/error types)
+- [CodeXGLUE](https://github.com/microsoft/CodeXGLUE) - Dataset for Code Understanding and Generation by Microsoft ([paper](https://arxiv.org/pdf/2102.04664.pdf))
 - [BHive](https://github.com/ithemal/bhive) - A Benchmark Suite and Measurement Framework for Validating x86-64 Basic Block Performance Models ([paper](https://groups.csail.mit.edu/commit/papers/19/ithemal-measurement.pdf)).
-- [cBench](https://ctuning.org/wiki/index.php/CTools:CBench) - 32 C benchmarks with datasets and driver scripts.
-- [PolyBench](http://web.cs.ucla.edu/~pouchet/software/polybench/) - 30 Stencil and Linear-algebra benchmarks with datasets and driver scripts. See also: [GPU version](https://github.com/cavazos-lab/PolyBench-ACC), [pre-computed datasets](https://github.com/stefanocereda/polybench_data) ([paper](https://dl.acm.org/doi/abs/10.1145/3372799.3394361)).
-- [DeepDataFlow](https://github.com/ChrisCummins/ProGraML/blob/master/programl/Documentation/DataflowDataset.md) - 469k LLVM-IR files and 8.6B data-flow analysis labels for classification ([paper](https://arxiv.org/pdf/2003.10536.pdf)).
-- [devmap](https://github.com/ChrisCummins/paper-end2end-dl) - 650 OpenCL benchmark features and CPU/GPU classification labels ([paper](https://chriscummins.cc/pub/2017-pact.pdf); [slides](https://speakerdeck.com/chriscummins/end-to-end-deep-learning-of-optimization-heuristics-pact-17)).
-- [TenSet: A Large-scale Program Performance Dataset for Learned Tensor Compilers](https://github.com/tlc-pack/tenset) - A dataset of tensor program performance records for six commonly used hardware platforms ([paper](https://openreview.net/pdf?id=aIfp8kLuvc9)).
+- [PolyBench](http://web.cs.ucla.edu/~pouchet/software/polybench/) - PolyBench is a collection of benchmarks containing static control parts. The purpose is to uniformize the execution and monitoring of kernels. ([paper](https://dl.acm.org/doi/abs/10.1145/3372799.3394361)).
+- [devmap](https://github.com/ChrisCummins/paper-end2end-dl) -End-to-end Deep Learning of Optimization Heuristics ([paper](https://chriscummins.cc/pub/2017-pact.pdf); [slides](https://speakerdeck.com/chriscummins/end-to-end-deep-learning-of-optimization-heuristics-pact-17)).
+- [TenSet: A Large-scale Program Performance Dataset for Learned Tensor Compilers](https://github.com/tlc-pack/tenset) - ([paper](https://openreview.net/pdf?id=aIfp8kLuvc9)).
 
 
 ## conferences
