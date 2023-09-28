@@ -220,7 +220,12 @@ Ninghui Sun. ACM Transactions on Architecture and Code Optimization (TACO), 2015
 
 ## Talks and Tutorials
 - Saman Amarasinghe, [Compiler 2.0: Using Machine Learning to Modernize Compiler Technology](https://www.youtube.com/watch?v=a1w_NKDVdkI). LCTES 2020.
-- Amir Ashouri, [Compiler Autotuning using Machine Learning: A State-of-the-art Review](https://youtu.be/xNixKfDxDZE) ([slides](http://amirashouri.ca/resources/Amir_CompileAutotuning_Talk_2019_Google.pdf)). Polytechnic University of Milan 2018.
+- [Using Machine Learning to Modernize Compiler Technology](https://www.youtube.com/watch?v=a1w_NKDVdkI), ACM SIGPLAN
+- Amir Ashouri, [Compiler Autotuning using Machine Learning: A State-of-the-art Review](https://youtu.be/xNixKfDxDZE)([slides](http://amirashouri.ca/resources/Amir_CompileAutotuning_Talk_2019_Google.pdf)). Polytechnic University of Milan 2018.
+- [Understanding Compiler Optimization](https://www.youtube.com/watch?v=KnkZ18m5u9I), DevConfCZ 2019
+- [CompilerGym: Robust, Performant Compiler Optimization Environments for AI](https://www.youtube.com/watch?v=KnkZ18m5u9I), CGO Conference 2022
+- Jinliang Wei, Google [AI Quorum: Scaling Deep Learning Training With Compiler Optimizations](https://www.youtube.com/watch?v=h2-JEvTt5-g), the AI quorum, 2022
+
 
 
 ## Software
@@ -250,6 +255,7 @@ Understanding and Generation ([paper](https://arxiv.org/pdf/2102.04664.pdf))
 - [DeepDataFlow](https://github.com/ChrisCummins/ProGraML/blob/master/programl/Documentation/DataflowDataset.md) - 469k LLVM-IR files and 8.6B data-flow analysis labels for classification ([paper](https://arxiv.org/pdf/2003.10536.pdf)).
 - [devmap](https://github.com/ChrisCummins/paper-end2end-dl) - 650 OpenCL benchmark features and CPU/GPU classification labels ([paper](https://chriscummins.cc/pub/2017-pact.pdf); [slides](https://speakerdeck.com/chriscummins/end-to-end-deep-learning-of-optimization-heuristics-pact-17)).
 - [TenSet: A Large-scale Program Performance Dataset for Learned Tensor Compilers](https://github.com/tlc-pack/tenset) - A dataset of tensor program performance records for six commonly used hardware platforms ([paper](https://openreview.net/pdf?id=aIfp8kLuvc9)).
+
 
 ## conferences
 
