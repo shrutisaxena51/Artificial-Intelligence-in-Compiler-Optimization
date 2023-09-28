@@ -2,7 +2,7 @@
 [![Awesome](https://img.shields.io/badge/awesome-YES-brightgreen.svg)](https://github.com/shrutisaxena51)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-YES-green.svg)](https://github.com/shrutisaxena51)
 
-A curated list of research papers, datasets, and tools for applying machine learning/Deep learning techniques to compilers and program optimization.
+A list of research papers, datasets, conference and talk and Projects for compilers and program optimization.
 
 ## Contents
 - [Papers](#papers)
