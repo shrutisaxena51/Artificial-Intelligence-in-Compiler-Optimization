@@ -30,7 +30,7 @@ A curated list of research papers, datasets, and tools for applying machine lear
    
 - [Books](#books)
 - [Talks and Tutorials](#talks-and-tutorials)
-- [Software](#software)
+- [Compiler Projects](#software)
 - [Benchmarks and Datasets](#benchmarks-and-datasets)
 - [Conferences](#conferences)
 - [Journals](#journals)
@@ -229,17 +229,16 @@ Ninghui Sun. ACM Transactions on Architecture and Code Optimization (TACO), 2015
 
 
 ## Software
-- [CompilerGym](https://github.com/facebookresearch/CompilerGym) - Reinforcement learning environments for compiler optimizations ([paper](https://arxiv.org/pdf/2109.08267.pdf)).
-- [CodeBert](https://github.com/microsoft/CodeBERT) -  pre-trained DNN models for programming languages ([paper](https://arxiv.org/pdf/2002.08155.pdf)).
-- [programl](https://github.com/ChrisCummins/ProGraML) - LLVM and XLA IR program representation for machine learning ([paper](https://arxiv.org/pdf/2003.10536.pdf)).
-- [NeuroVectorizer](https://github.com/intel/neuro-vectorizer) - Using deep reinforcement learning (RL) to predict optimal vectorization compiler pragmas ([paper](https://arxiv.org/pdf/1909.13639)).
-- [Supersonic](https://github.com/HuantWang/SUPERSONIC) - Automate reinforcement learning architecture design ([paper](https://zwang4.github.io/publications/cc22.pdf)).
-- [TVM](https://tvm.apache.org/) - Open Deep Learning Compiler Stack for cpu, gpu and specialized accelerators ([paper](https://www.usenix.org/system/files/osdi18-chen.pdf); [slides](https://www.usenix.org/sites/default/files/conference/protected-files/osdi18_slides_chen.pdf)).
-- [clgen](https://github.com/ChrisCummins/clgen) - Benchmark generator using LSTMs ([paper](https://chriscummins.cc/pub/2017-cgo.pdf); [slides](https://speakerdeck.com/chriscummins/synthesizing-benchmarks-for-predictive-modelling-cgo-17)).
-- [COBAYN](https://github.com/amirjamez/COBAYN) - Compiler Autotuning using BNs ([paper](http://amirashouri.ca/resources/COBAYN-ashouri_taco16.pdf)).
-- [OpenTuner](https://github.com/jansel/opentuner) - Framework for building domain-specific multi-objective program autotuners ([paper](http://groups.csail.mit.edu/commit/papers/2014/ansel-pact14-opentuner.pdf); [slides](http://groups.csail.mit.edu/commit/papers/2014/ansel-pact14-opentuner-slides.pdf))
+- [CompilerGym](https://github.com/facebookresearch/CompilerGym) - About
+Reinforcement learning environments for compiler and program optimization tasks ([paper](https://arxiv.org/pdf/2109.08267.pdf)).
+- [CodeBert](https://github.com/microsoft/CodeBERT) -  pre-trained DNN models for programming languages provided by Microsoft. It also has impletelmentation of many compiler papers like: CodeBER,GraphCodeBERT, UniXcoder,CodeReviewer, CodeExecutor, LongCoder ([paper](https://arxiv.org/pdf/2002.08155.pdf)).
+- [NeuroVectorizer](https://github.com/intel/neuro-vectorizer) - Using deep reinforcement learning to predict optimal vectorization compiler pragmas by Intel ([paper](https://arxiv.org/pdf/1909.13639)).
+- [programl](https://github.com/ChrisCummins/ProGraML) - ProGraML is a representation for programs as input to a machine learning model ([paper](https://arxiv.org/pdf/2003.10536.pdf)).
 - [ONNX-MLIR](http://onnx.ai/onnx-mlir/) - Representation and Reference Lowering of ONNX Models in MLIR Compiler Infrastructure ([paper](https://arxiv.org/pdf/2008.08272.pdf)).
-- [IREE](https://github.com/openxla/iree) - A retargetable MLIR-based machine learning compiler and runtime toolkit. 
+- [IREE](https://github.com/openxla/iree) - A retargetable MLIR-based machine learning compiler and runtime toolkit.
+- [Supersonic](https://github.com/HuantWang/SUPERSONIC) - Automating reinforcement learning architecture design for code optimization. ([paper](https://zwang4.github.io/publications/cc22.pdf)).
+- [clgen](https://github.com/ChrisCummins/clgen) - Deep learning program generator using LSTM ([paper](https://chriscummins.cc/pub/2017-cgo.pdf); [slides](https://speakerdeck.com/chriscummins/synthesizing-benchmarks-for-predictive-modelling-cgo-17)).
+- [OpenTuner](https://github.com/jansel/opentuner) - An extensible framework for program autotuning ([paper](http://groups.csail.mit.edu/commit/papers/2014/ansel-pact14-opentuner.pdf); [slides](http://groups.csail.mit.edu/commit/papers/2014/ansel-pact14-opentuner-slides.pdf))
 
 
 ## Benchmarks and Datasets
